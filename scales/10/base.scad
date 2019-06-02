@@ -1,9 +1,9 @@
 devide = 10;
-joist = 1;
+joist = 10;
 
 
 // const
-bread = 12;
+bread = 120;
 base = bread + joist;
 
 
