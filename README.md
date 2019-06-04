@@ -19,6 +19,9 @@
   - バリの排除
   - 洗浄
 - 食パンを"立てて"定規を当て、切る
+![insert](https://github.com/2nd-junkey/bread-scaler/photos/insert.jpg)
+![set](https://github.com/2nd-junkey/bread-scaler/photos/set.jpg)
+![cut](https://github.com/2nd-junkey/bread-scaler/blob/master/photos/cut.jpg)
 - サンドイッチを作る。洗い物を忘れずに。
 
 ## option
